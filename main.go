@@ -22,6 +22,7 @@ import (
 )
 
 func main() {
+	// YAY lets learn to bot
 	// Handle flags
 	var settings engine.Settings
 	versionFlag := flag.Bool("version", false, "retrieves current GoCryptoTrader version")
